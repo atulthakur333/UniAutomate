@@ -1,4 +1,4 @@
-# Uni-Automate - Team CodeChamps
+# Uni-Automate 
 
 > An integrated dashboard and issue tracker to automate common issues faced in universities, especially regarding the hostel accomodation. It aims to upheave the very inefficient, redundant and cumbersome system of issue tracking using physical notebooks; and replaces it with an elegant modern smart solution that harnesses the power of technology to vastly automate a multitude of aspects of the hostel life
 
@@ -93,13 +93,6 @@ $ # Access the web app in browser: http://127.0.0.1:8000/
    |
    |-- ************************************************************************
 ```
-### Todos
-
- - Geyser and Lift Integration (Using IoT Devices)
- - **Mess system and queue tracker**
- - *More hardware integrations and facilities*
- - Advance UI
-
 
 ### What Has Been Done
 
@@ -114,4 +107,4 @@ UNIAutoMate uses these source projects to work properly:
 
 * [Creative Tim's Black Dashboard](https://github.com/creativetimofficial/black-dashboard) - Basic dashboard template with login/signup pages!
 
-And of course UNIAutoMate itself is open source with a [public repository](https://github.com/hari01584/project__UNIAutoMate__MakeAThon3077) on GitHub.
+
